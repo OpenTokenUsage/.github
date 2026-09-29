@@ -9,7 +9,7 @@ winget install PowerUserZ.OpenTokenUsage
 ```
 
 - **App and releases:** [PowerUserZ/OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage)
-- **Website:** [opentokenusage.github.io](https://opentokenusage.github.io)
+- **Website:** [opentokenusage.app](https://opentokenusage.app)
 - **Found a bug or want a provider?** [Open an issue](https://github.com/PowerUserZ/OpenTokenUsage/issues/new)
 
 Built on [OpenUsage](https://github.com/robinebers/openusage) by Robin Ebers. Not affiliated with OpenUsage, Anthropic, OpenAI or any provider; their names and logos belong to their owners.
