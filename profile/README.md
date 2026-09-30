@@ -12,4 +12,8 @@ winget install PowerUserZ.OpenTokenUsage
 - **Website:** [opentokenusage.app](https://opentokenusage.app)
 - **Found a bug or want a provider?** [Open an issue](https://github.com/PowerUserZ/OpenTokenUsage/issues/new)
 
+If OpenTokenUsage saves you time, you can buy me a coffee:
+
+<a href="https://www.buymeacoffee.com/PowerUserZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60" width="217"></a>
+
 Built on [OpenUsage](https://github.com/robinebers/openusage) by Robin Ebers. Not affiliated with OpenUsage, Anthropic, OpenAI or any provider; their names and logos belong to their owners.
